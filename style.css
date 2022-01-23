@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:yellow ;
+    padding: 20px;
+    margin-bottom:10px ;
+}
+header a{
+    background-color: violet  ;
+}
+footer{
+    background-image: linear-gradient(to right,gold ,white ,yellow,white ,yellow  );
+    padding: 10px ;
+    text-align:center ;
+}
+
+.link-header {
+    color: royalblue;
+    border-radius: 20px ;
+    padding: 10px;
+    background-image: linear-gradient(to right, red,white );
+}
+h1{
+    text-shadow: 2px 2px 2px yellow;
+}
+main nav,h1 {
+    text-align: center;
+    color: turquoise;
+}
+ul{
+    color:blueviolet;
+}
+h1 p{
+    color: darkorchid;
+}
